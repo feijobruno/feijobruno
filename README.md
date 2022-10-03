@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Bruno Feijo 
 
 - 🔭 I’m currently working on Light Serviços de Eletricidade SA ✨(company of the energy sector in Brazil)
 - 🌱 I’m currently learning React, React Native
