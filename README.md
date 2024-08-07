@@ -3,7 +3,7 @@
 **About me:**
 - 💻 I'm web developer since 2012
 - ⚛️ JavaScript | NodeJS | React | PHP | Oracle
-- 🔭 I’m currently working on Light Serviços de Eletricidade SA ✨(company of the energy sector in Brazil)
+- 🔭 I’m currently working on Telefonica Brasil✨(company of the telecommunications sector in Brazil)
 - 📝 I'm graduated in Software Engineer
 - 📫 How to reach me: [my site](http://brunofeijo.dev), [linkedIn](https://www.linkedin.com/in/bruno-feij%C3%B3-rocha-4354322a/), [instagram](https://www.instagram.com/brunofeijorocha/) or [twitter](https://twitter.com/feijo_bruno)
 
